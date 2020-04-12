@@ -11,42 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Software Engineering, Amirkabir University of Technology, 2018
+* M.S. in Data Science, Technical University of Eindhoven, 2019
+* M.S. in Data Science, KTH, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2019 - current: Data Engineer
+  * Klarna
+  * Duties included: ETL operations for analytics.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2018: Data Engineer
+  * CafeBazaar
+  * Duties included: Creating analytics dashboard. ETL and infrastructure of Divar data.
+
+* 2016 - 2017: Android Developer
+  * CafeBazaar
+  * Duties included: Implementing real-time chat client.
+
+* Winter 2016: Android Developer
+  * 6th Solution
+  * Duties included: Developing android applications
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Java
+* Python
+* Machine Learning
+* Android Development
+* Scrum Master
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+<!--   
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -54,6 +59,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

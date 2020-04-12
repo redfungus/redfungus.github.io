@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: "2018-autumn-Android-Development"
 venue: "CafeBazaar"
-date: 2018
+date: 2018-08-01
 location: "Tehran, Iran"
 ---
 

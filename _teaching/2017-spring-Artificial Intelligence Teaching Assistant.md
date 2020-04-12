@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: "2017-spring-Artificial Intelligence Teaching Assistant"
 venue: "Amirkabir University, Computer Engineering Department"
-date: 2017
+date: 2017-02-01
 location: "Tehran, Iran"
 ---
 

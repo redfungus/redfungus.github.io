@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Data Engineer at Klarna. Also, finishing my Master's at KTH."
   location         : "Stockholm, Sweden"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Klarna"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=owX7t_sAAAAJ"
   email            : "rfmrd619@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "redfungus"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/rfmrd/"
+  linkedin         : "rfmrd"
   orcid            : "https://orcid.org/0000-0002-1731-5979"
   pinterest        :
   soundcloud       :

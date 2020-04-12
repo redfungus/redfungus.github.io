@@ -19,19 +19,19 @@ Work experience
 ======
 * 2019 - current: Data Engineer
   * Klarna
-  * Duties included: ETL operations for analytics.
+  * Responsibilities included: ETL operations for analytics.
 
 * 2017 - 2018: Data Engineer
   * CafeBazaar
-  * Duties included: Creating analytics dashboard. ETL and infrastructure of Divar data.
+  * Responsibilities included: Creating analytics dashboard. ETL and infrastructure of Divar data.
 
 * 2016 - 2017: Android Developer
   * CafeBazaar
-  * Duties included: Implementing real-time chat client.
+  * Responsibilities included: Implementing real-time chat client.
 
 * Winter 2016: Android Developer
   * 6th Solution
-  * Duties included: Developing android applications
+  * Responsibilities included: Developing android applications
   
 Skills
 ======

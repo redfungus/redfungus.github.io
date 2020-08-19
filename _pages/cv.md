@@ -20,26 +20,26 @@ Work experience
 
 * 2020 - Present: Research Engineer, Klarna
   * Web Automation Research team
-  * Responsibilities included: Researching and applying state-of-the-art reinforcment learning methods in the field of web automation.
+  * Researching and applying state-of-the-art reinforcment learning methods in the field of web automation.
 
 * 2020 - Summer 2020: Master Thesis Student, Klarna
   * Thesis Title: Combining Learned and Analytical Models for Predicting CO2e Emissions in Textile Products.
-  * Responsibilities included: Gathered suitable datasets and developed three proposed models for combining Learned and Analytical models.
+  * Gathered suitable datasets and developed three proposed models for combining Learned and Analytical models.
 
 * 2019 - 2020: Data Engineer, Klarna
   * Data Acquiring team
-  * Responsibilities included: ETL operations for analytics.
+  * ETL operations for analytics.
 
 * 2017 - 2018: Data Engineer, CafeBazaar
   * Communications team
-  * Responsibilities included: Creating analytics dashboard. ETL and infrastructure of Divar data.
+  * Creating analytics dashboard. ETL and infrastructure of Divar data.
 
 * 2016 - 2017: Android Developer, CafeBazaar
   * Chat Client team
-  * Responsibilities included: Implementing real-time chat client.
+  * Implementing real-time chat client.
 
 * Winter 2016: Android Developer, 6thSolution
-  * Responsibilities included: Developing android applications for customers.
+  * Developing android applications for customers.
   
 Skills
 ======

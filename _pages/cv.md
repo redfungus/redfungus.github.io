@@ -13,11 +13,21 @@ Education
 ======
 * B.S. in Software Engineering, Amirkabir University of Technology, 2018
 * M.S. in Data Science, Technical University of Eindhoven, 2019
-* M.S. in Data Science, KTH, 2020 (expected)
+* M.S. in Data Science, KTH, 2020
 
 Work experience
 ======
-* 2019 - current: Data Engineer
+
+* 2020: Research Engineer
+  * Klarna
+  * Responsibilities included: Researching and applying state-of-the-art reinforcment learning methods in the field of web automation.
+
+* 2020 - Summer 2020: Master Thesis Student
+  * Klarna
+  * Thesis Title: Combining Learned and Analytical Models for Predicting CO2e Emissions in Textile Products.
+  * Responsibilities included: Gathered suitable datasets and developed three proposed models for combining Learned and Analytical models.
+
+* 2019 - 2020: Data Engineer
   * Klarna
   * Responsibilities included: ETL operations for analytics.
 

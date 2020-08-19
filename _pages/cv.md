@@ -22,7 +22,7 @@ Work experience
   * Web Automation Research team
   * Responsibilities included: Researching and applying state-of-the-art reinforcment learning methods in the field of web automation.
 
-* 2020 - Summer 2020: Master Thesis Student - Klarna
+* 2020 - Summer 2020: Master Thesis Student, Klarna
   * Thesis Title: Combining Learned and Analytical Models for Predicting CO2e Emissions in Textile Products.
   * Responsibilities included: Gathered suitable datasets and developed three proposed models for combining Learned and Analytical models.
 

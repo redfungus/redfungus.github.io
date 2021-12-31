@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Aref Moradi"
 title_separator          : "-"
 name                     : &name "Aref Moradi"
-description              : &description "Data Science Master Student at KTH"
+description              : &description "Machine Learning Engineer"
 url                      : https://redfungus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "redfungus.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "redfungus.jpg"# filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Aref Moradi"
-  avatar           : "profile.png"
+  avatar           : "me.jpg"
   bio              : "Machine Learning Engineer at Klarna."
   location         : "Stockholm, Sweden"
   employer         :

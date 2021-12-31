@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Machine Learning Engineer at Klarna."
   location         : "Stockholm, Sweden"
-  employer         : "Klarna"
-  pubmed           : 
+  employer         :
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=owX7t_sAAAAJ"
   email            : "rfmrd619@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -116,6 +116,7 @@ author:
   youtube          :
   wikipedia        :
   goodreads        : "64425668-aref-moradi"
+  gitlab           : "redfungus"
 
 
 # Reading Files

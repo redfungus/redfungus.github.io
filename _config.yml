@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aref Moradi"
   avatar           : "profile.png"
-  bio              : "Research Engineer at Klarna."
+  bio              : "Machine Learning Engineer at Klarna."
   location         : "Stockholm, Sweden"
   employer         : "Klarna"
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/5281727/aref-moradi"
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "MoradiRF"
   vine             :
   weibo            :
   xing             :

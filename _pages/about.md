@@ -14,6 +14,6 @@ I finished my Master's degree as part of the EIT Digital Data Science program wi
 
 I'm one of the co-founders of [SpotBot](https://spotbot-dev.slack.com/apps/A013AM33ADB-spotbot?tab=more_info) which is a SlackBot that randomly matches people in channels and gives them fun icebreakers to talk about.
 
-Currently, I'm very interested in Reinforcement Learning and it's applications in the video game industry. I'm learning to use game engines and implement RL algorithms in them.
+Outside work, I'm very interested in Reinforcement Learning and especially it's applications in video games. I'm learning to use game engines and implement RL algorithms in them.
 
 In my free-time I like to go bouldering and love to play video games and watch movies.  

@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 [Academic CV](https://redfungus.github.io/uploads/My_Resume_Academic.pdf). (Last Updated 31 Dec 2021)  
-[Work CV](https://redfungus.github.io/uploads/My_Resume.pdf). (Last Updated 31 Dec 2021)
+[Work CV](https://redfungus.github.io/uploads/My_Resume.pdf). (Last Updated 19 Oct 2022)

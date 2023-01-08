@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Aref Moradi"
   avatar           : "me.jpg"
-  bio              : "Machine Learning Engineer at Klarna."
+  bio              : "Machine Learning Engineer at Klarna"
   location         : "Stockholm, Sweden"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=owX7t_sAAAAJ"
   email            : "rfmrd619@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "rfmrd"
-  orcid            : "https://orcid.org/0000-0002-1731-5979"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/5281727/aref-moradi"
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "MoradiRF"

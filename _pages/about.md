@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a machine learning engineer living in Stockholm, Sweden. I'm currently working at [Klarna](https://divar.ir/). Before that, I worked as a Data Scientist and Android Developer at [Divar](https://divar.ir/).
+I'm a machine learning engineer living in Stockholm, Sweden. I'm currently working at [Klarna](https://www.klarna.com/). Before that, I worked as a Data Scientist and Android Developer at [Divar](https://divar.ir/).
 
 I finished my Master's degree as part of the EIT Digital Data Science program with a minor in business and entrepreneurship. I also obtained my Bachelor's degree in Software Engineering from Amirkabir University of Technology.
 

@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 <!-- 
-[Academic CV](https://redfungus.github.io/uploads/My_Resume_Academic.pdf). (Last Updated 25 Oct 2022)  
-[Work CV](https://redfungus.github.io/uploads/My_Resume.pdf). (Last Updated 25 Oct 2022) -->
+[Academic CV](https://redfungus.github.io/uploads/My_Resume_Academic.pdf). (Last Updated 12 March 2023)  
+[Work CV](https://redfungus.github.io/uploads/My_Resume.pdf). (Last Updated 12 March 2023) -->

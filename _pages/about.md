@@ -15,5 +15,3 @@ Previously, I worked at [Klarna](https://www.klarna.com/) as an ML Engineer. Bef
 I obtained my double Master’s degree from KTH and TU/e as part of the EIT Digital Data Science program with a minor in business and entrepreneurship. Prior to that, I completed my bachelor’s degree in Software Engineering at Amirkabir University of Technology.
 
 I'm one of the co-founders of [SpotBot](https://spotbot-dev.slack.com/apps/A013AM33ADB-spotbot?tab=more_info) which is a SlackBot that randomly matches people in channels and gives them fun icebreakers to talk about.
-
-I'm very interested in Reinforcement Learning and especially its applications in video games. I'm learning to use game engines and implement RL algorithms in them with a focus on VR applications.

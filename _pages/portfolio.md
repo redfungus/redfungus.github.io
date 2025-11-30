@@ -1,18 +1,17 @@
 ---
-layout: archive
 title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
+redirect_from: 
+  - /portfolio/
+  - /portfolio.html
 ---
-
-<!-- {% include base_path %} -->
-
 
 ## Professional Projects
 
 ### [Pickle Pro](https://www.resolutiongames.com/picklepro)
 
-<img src="../images/Pickle+Pro+Web+banner.png" alt="Astro Explorer Screenshot" style="width:300px;max-width:100%;border-radius:8px;" />
+<img src="../images/Pickle+Pro+Web+banner.png" alt="Astro Explorer Screenshot" style="width:300px;max-width:100%;border-radius:8px;"/>
 
 <p>Pickleball Like You’ve Never Played Before!
 
@@ -31,6 +30,7 @@ Turn your surroundings into your personal pickleball court with Apple Vision Pro
 ### [Twenty Guys](https://www.resolutiongames.com/twentyguys)
 
 <img src="../images/Twenty Guys.webp" alt="Mystic Forest Screenshot" style="width:300px;max-width:100%;border-radius:8px;" />
+
 <p>So, you’ve got twenty guys...
 
 🚶🏼‍➡️🚶🏽‍➡️🚶‍♀️‍➡️🚶🏾‍➡️🚶🏿‍➡️🚶🏻‍♀️‍➡️🚶‍♀️‍➡️🚶🏼‍♂️‍➡️🚶🏿‍♂️‍➡️🚶🏼‍➡️🚶🏽‍➡️🚶‍♀️‍➡️🚶🏽‍➡️🚶‍♀️‍➡️🚶🏼‍♂️‍➡️🚶🏿‍➡️🚶🏼‍♂️‍➡️🚶🏼‍➡️🚶🏽‍➡️🚶‍♀️‍➡️

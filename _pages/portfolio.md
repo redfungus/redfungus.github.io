@@ -42,4 +42,4 @@ Oh, and there are also fun tools, like a hammer, cheese-on-a-stick and a glue gu
 ### What was that about?
 <img src="../images/snail.jpg" alt="Pixel Quest Screenshot" style="width:300px;max-width:100%;border-radius:8px;" />
 
-Very short narrative game based on this [snail joke](https://www.reddit.com/r/Jokes/comments/gc8p1g/a_guy_throws_a_snail/).
+Very short narrative VR game based on this [snail joke](https://www.reddit.com/r/Jokes/comments/gc8p1g/a_guy_throws_a_snail/).
